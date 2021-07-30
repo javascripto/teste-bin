@@ -1,0 +1,12 @@
+{
+  "name": "teste-bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/teste-bin",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "teste-bin": "./bin/teste-bin"
+  }
+}
