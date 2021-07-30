@@ -8,5 +8,8 @@
   "license": "ISC",
   "bin": {
     "teste-bin": "./bin/teste-bin"
+  },
+  "scripts": {
+    "start": "node ./bin/teste-bin"
   }
 }
